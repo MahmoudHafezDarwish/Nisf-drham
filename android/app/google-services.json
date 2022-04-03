@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142258638710",
+    "project_id": "ns-dirham",
+    "storage_bucket": "ns-dirham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142258638710:android:8108ba349ba27048127457",
+        "android_client_info": {
+          "package_name": "com.example.drham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142258638710-781ef43at234a9f81iv5ctubloqfand5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1JI-JXdLhZR4uZX5uHadKYu44c_fXU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142258638710-781ef43at234a9f81iv5ctubloqfand5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
